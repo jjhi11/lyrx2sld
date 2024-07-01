@@ -14,4 +14,4 @@
 ## To Geostyler-style
 - Strict Geostyle-style:
   - Use only (validate ?) variable, type and class existing in geoserver-style.
-  - Add a custom file to list "workaround" (not existing) variable, type and class.
+  - Add a custom file to list "workaround" (not existing) variable, type and class
